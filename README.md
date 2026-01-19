@@ -6,6 +6,7 @@
 Git & Github + Load Balancer
 
 - Raveh: **Researching** / Coding / Merging
+
 SQLite + Encyption
 
 - Neta: **Researching** / Coding / Merging
