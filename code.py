@@ -1,2 +1,2 @@
-def func(x):
-    return x*1
+def func(name):
+    return "hello" + name
