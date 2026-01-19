@@ -3,7 +3,7 @@ def func(name):
 
 
 def b():
-    return 5
+    return 1
 
 def a():
     return 3
