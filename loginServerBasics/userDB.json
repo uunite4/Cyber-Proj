@@ -1,0 +1,14 @@
+{
+    "users": [
+        {
+            "username": "uunite",
+            "password": "myPass",
+            "token": "j2g36hjk542j5kvt"
+        },
+        {
+            "username": "rvh",
+            "password": "myPassRVH",
+            "token": "dk4vjl74dj34lb5l"
+        }
+    ]
+}
